@@ -20,3 +20,5 @@ require (
 )
 
 go 1.12
+
+replace github.com/hanchuanchuan/go-mysql v0.0.0-20200114082439-6d0d8d3a982e => github.com/jianhaiqing/go-mysql parseGtid
