@@ -10,6 +10,7 @@ require (
 	github.com/outbrain/golib v0.0.0-20180830062331-ab954725f502 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/satori/go.uuid v1.2.0
+	github.com/siddontang/go-mysql v0.0.0-20200120044259-a9add8d89449 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	golang.org/x/crypto v0.0.0-20200109152110-61a87790db17
 	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
@@ -21,4 +22,4 @@ require (
 
 go 1.12
 
-replace github.com/hanchuanchuan/go-mysql v0.0.0-20200114082439-6d0d8d3a982e => github.com/jianhaiqing/go-mysql v0.0.0-20200217073310-cc7fa31bbd2c
+replace github.com/hanchuanchuan/go-mysql v0.0.0-20200114082439-6d0d8d3a982e => github.com/jianhaiqing/go-mysql v0.0.0-20200218095034-ce3fdd5956f8
